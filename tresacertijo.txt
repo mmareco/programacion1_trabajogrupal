@@ -1,0 +1,7 @@
+Hemos hackeado tu computadora esta vez podemos verte pero tranquilo es simple compañero. Un número de tres cifras que une a tu equipo. Piensa rápido CLAY, estás perdiendo. Aceptenlo, no hay nada más que hacer.
+
+AYUDA:
+    Los dos números recopilados y la cantidad de equipos que juegan hoy.
+
+PISTA:
+    Mirá a la puerta del aula.

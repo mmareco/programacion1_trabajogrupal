@@ -1,0 +1,10 @@
+Hemos hackeado un auto, viajan 2 madres y 2 hijas pero sólo 3 pasajeras. ¿Dónde está la cuarta? Responde:
+
+Opciones:
+    1. En el baúl.
+    2. No existe.
+    3. En el asiento de atrás.
+    4. Dos son siamesas.
+
+Pista para la final:
+    Los colores primarios x2 menos 1.
